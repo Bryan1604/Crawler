@@ -42,6 +42,7 @@ public class Crawler {
         }catch (Exception e) {
             // TODO: handle exception
             return null;
+
         }
     }
 
